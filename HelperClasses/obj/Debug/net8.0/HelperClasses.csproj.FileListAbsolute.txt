@@ -1,0 +1,77 @@
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.deps.json
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\refint\HelperClasses.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\ref\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.deps.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.sourcelink.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\refint\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\ref\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.deps.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.sourcelink.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\refint\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\ref\HelperClasses.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.deps.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.AssemblyReference.cache
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfoInputs.cache
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfo.cs
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.CoreCompileInputs.cache
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.sourcelink.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\refint\HelperClasses.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\ref\HelperClasses.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.deps.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.AssemblyReference.cache
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfoInputs.cache
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfo.cs
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.CoreCompileInputs.cache
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.sourcelink.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\refint\HelperClasses.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\ref\HelperClasses.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.deps.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\bin\Debug\net8.0\HelperClasses.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.AssemblyReference.cache
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfoInputs.cache
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.AssemblyInfo.cs
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.csproj.CoreCompileInputs.cache
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.sourcelink.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\refint\HelperClasses.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\HelperClasses.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\HelperClasses\obj\Debug\net8.0\ref\HelperClasses.dll

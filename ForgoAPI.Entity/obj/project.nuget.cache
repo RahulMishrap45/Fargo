@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3nzbIxOlwQ=",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\CIT_API_Master.Fork\\CIT_API_Master.Fork\\Fargo.API.Solutions\\ForgoAPI.Entity\\ForgoAPI.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmish\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,47 @@
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\FargoAPI.BusinessEntity.deps.json
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\FargoAPI.BusinessEntity.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\FargoAPI.BusinessEntity.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\ForgoAPI.Entity.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.9C989F23.Up2Date
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\refint\FargoAPI.BusinessEntity.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\ref\FargoAPI.BusinessEntity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\FargoAPI.BusinessEntity.deps.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\FargoAPI.BusinessEntity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\FargoAPI.BusinessEntity.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\ForgoAPI.Entity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.sourcelink.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.9C989F23.Up2Date
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\refint\FargoAPI.BusinessEntity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\ref\FargoAPI.BusinessEntity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\FargoAPI.BusinessEntity.deps.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\FargoAPI.BusinessEntity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\FargoAPI.BusinessEntity.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\ForgoAPI.Entity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.sourcelink.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.9C989F23.Up2Date
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\refint\FargoAPI.BusinessEntity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\FargoAPI.BusinessEntity.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\FargoAPI.BusinessEntity\obj\Debug\net8.0\ref\FargoAPI.BusinessEntity.dll

@@ -1,0 +1,127 @@
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.deps.json
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.514B003B.Up2Date
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\refint\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ref\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.deps.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.sourcelink.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.514B003B.Up2Date
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\refint\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ref\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.deps.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Component.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Component.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.sourcelink.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.514B003B.Up2Date
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\refint\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ref\ForgoAPI.Services.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.deps.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Component.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Component.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.AssemblyReference.cache
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfoInputs.cache
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfo.cs
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.sourcelink.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.514B003B.Up2Date
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\refint\ForgoAPI.Services.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ref\ForgoAPI.Services.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.deps.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Component.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Component.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.AssemblyReference.cache
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfoInputs.cache
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfo.cs
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.CoreCompileInputs.cache
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.sourcelink.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.514B003B.Up2Date
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\refint\ForgoAPI.Services.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ref\ForgoAPI.Services.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.deps.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Services.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Component.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Component.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\Repository.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\bin\Debug\net8.0\HelperClasses.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.AssemblyReference.cache
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfoInputs.cache
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.AssemblyInfo.cs
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.csproj.CoreCompileInputs.cache
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.sourcelink.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.514B003B.Up2Date
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\refint\ForgoAPI.Services.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ForgoAPI.Services.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Services\obj\Debug\net8.0\ref\ForgoAPI.Services.dll

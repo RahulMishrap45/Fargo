@@ -1,0 +1,378 @@
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.json
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.exe
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.deps.json
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.runtimeconfig.json
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.FastCrud.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Data.SqlClient.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cs
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.Forgo.Task.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.Forgo.Task.props
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Forgo.Task.props
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Forgo.Task.props
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\Forgo.Task.styles.css
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.Up2Date
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\refint\Forgo.Task.dll
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.pdb
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.genruntimeconfig.cache
+A:\Work\CIT Project\Projects\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\ref\Forgo.Task.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.exe
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.deps.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.runtimeconfig.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.FastCrud.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Data.SqlClient.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cs
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.sourcelink.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.Forgo.Task.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.Forgo.Task.props
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Forgo.Task.props
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Forgo.Task.props
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\Forgo.Task.styles.css
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.Up2Date
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\refint\Forgo.Task.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.genruntimeconfig.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_API_Master\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\ref\Forgo.Task.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.exe
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.deps.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.runtimeconfig.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.FastCrud.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Data.SqlClient.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.AssemblyReference.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfoInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfo.cs
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.CoreCompileInputs.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cs
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.sourcelink.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.Forgo.Task.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.Forgo.Task.props
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Forgo.Task.props
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Forgo.Task.props
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\Forgo.Task.styles.css
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.Up2Date
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\refint\Forgo.Task.dll
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.pdb
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.genruntimeconfig.cache
+A:\Work\CIT Project\Projects\Projects on VSTS\CIT_Fork_API\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\ref\Forgo.Task.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.exe
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.deps.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.runtimeconfig.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.FastCrud.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.AssemblyReference.cache
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfoInputs.cache
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfo.cs
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.CoreCompileInputs.cache
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.sourcelink.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.Forgo.Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.Forgo.Task.props
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Forgo.Task.props
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Forgo.Task.props
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\Forgo.Task.styles.css
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.Up2Date
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\refint\Forgo.Task.dll
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.pdb
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.genruntimeconfig.cache
+C:\Users\sripr\Desktop\Lanced\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\ref\Forgo.Task.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.exe
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.deps.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.runtimeconfig.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.FastCrud.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.UI.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.ClientModel.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Text.Json.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.AssemblyReference.cache
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfoInputs.cache
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfo.cs
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.CoreCompileInputs.cache
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cs
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cache
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.sourcelink.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.Forgo.Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.Forgo.Task.props
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Forgo.Task.props
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Forgo.Task.props
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\Forgo.Task.styles.css
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.Up2Date
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\refint\Forgo.Task.dll
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.pdb
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.genruntimeconfig.cache
+C:\SunilPatel\CITAPP\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\ref\Forgo.Task.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.exe
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.deps.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.runtimeconfig.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Forgo.Task.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Dapper.FastCrud.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Web.UI.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.ClientModel.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Component.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Services.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\HelperClasses.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Repository.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.AssemblyReference.cache
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfoInputs.cache
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.AssemblyInfo.cs
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.CoreCompileInputs.cache
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cs
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.sourcelink.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.Forgo.Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.Forgo.Task.props
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Forgo.Task.props
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Forgo.Task.props
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\Forgo.Task.styles.css
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.csproj.Up2Date
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\refint\Forgo.Task.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.pdb
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\Forgo.Task.genruntimeconfig.cache
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\obj\Debug\net8.0\ref\Forgo.Task.dll
+C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll

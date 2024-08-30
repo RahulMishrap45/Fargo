@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ForgoAPI.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ForgoAPI.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ForgoAPI.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForgoAPI.Entity/1.0.0": {
+      "type": "project",
+      "path": "../ForgoAPI.Entity/ForgoAPI.Entity.csproj",
+      "msbuildProject": "../ForgoAPI.Entity/ForgoAPI.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ForgoAPI.Entity >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\abhin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "A:\\Work\\CIT Project\\Projects\\Projects on VSTS\\CIT_Fork_API\\CIT_API_Master.Fork\\Fargo.API.Solutions\\FargoAPI.BusinessEntity\\FargoAPI.BusinessEntity.csproj",
+      "projectName": "FargoAPI.BusinessEntity",
+      "projectPath": "A:\\Work\\CIT Project\\Projects\\Projects on VSTS\\CIT_Fork_API\\CIT_API_Master.Fork\\Fargo.API.Solutions\\FargoAPI.BusinessEntity\\FargoAPI.BusinessEntity.csproj",
+      "packagesPath": "C:\\Users\\abhin\\.nuget\\packages\\",
+      "outputPath": "A:\\Work\\CIT Project\\Projects\\Projects on VSTS\\CIT_Fork_API\\CIT_API_Master.Fork\\Fargo.API.Solutions\\FargoAPI.BusinessEntity\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\abhin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "A:\\Work\\CIT Project\\Projects\\Projects on VSTS\\CIT_Fork_API\\CIT_API_Master.Fork\\Fargo.API.Solutions\\ForgoAPI.Entity\\ForgoAPI.Entity.csproj": {
+              "projectPath": "A:\\Work\\CIT Project\\Projects\\Projects on VSTS\\CIT_Fork_API\\CIT_API_Master.Fork\\Fargo.API.Solutions\\ForgoAPI.Entity\\ForgoAPI.Entity.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
