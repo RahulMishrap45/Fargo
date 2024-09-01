@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Repository.OrderDistribute.V1
@@ -15,7 +16,9 @@ namespace Repository.OrderDistribute.V1
     {
         public IEnumerable<OrderDistributeModel> GetOrderDistribute()
         {
-            object paramObjects = new { };
+            object paramObjects = new {
+                Flag = strctCRUDAction.GetAll
+            };
             List<OrderDistributeModel> orderDistribute = base.GetSPResults<OrderDistributeModel>("cit.proc_VehicleAssignment", paramObjects);
             return orderDistribute;
         }
@@ -25,16 +28,13 @@ namespace Repository.OrderDistribute.V1
             object paramObjects = new
             {
                 Flag = strctCRUDAction.Create,
-                @OrderID = orderDistributeRequestModel.OrderID,
-                @OrderTypeID = orderDistributeRequestModel.OrderTypeID,
-                @CustomerID = orderDistributeRequestModel.CustomerID,
-                @TaskID = orderDistributeRequestModel.TaskID,
-                @RouteID = orderDistributeRequestModel.RouteID,
-                @LeadID = orderDistributeRequestModel.LeadID,
-                @ChaseID = orderDistributeRequestModel.ChaseID,
-                @CrewCommanderID = orderDistributeRequestModel.CrewCommanderID
+                @GroupId = orderDistributeRequestModel.GroupID,
+                @VehicleID = orderDistributeRequestModel.VehicleID,
+                @CrewCommanderID = orderDistributeRequestModel.CrewCommanderID,
+                @PoliceID = orderDistributeRequestModel.PoliceID,
+                @TaskID = orderDistributeRequestModel.TaskID
             };
-            var OrderDistribute = base.GetSPResults<OrderDistributeRequestModel>("cit.spOrderDistribute", paramObjects);
+            var OrderDistribute = base.GetSPResults<OrderDistributeRequestModel>("cit.proc_VehicleAssignment", paramObjects);
             return OrderDistribute.FirstOrDefault() ?? new OrderDistributeRequestModel();
         }
 

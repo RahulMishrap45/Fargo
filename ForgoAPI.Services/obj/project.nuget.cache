@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j4TfywUKc/U=",
+  "dgSpecHash": "pgAG0LMgOPc=",
   "success": true,
-  "projectFilePath": "C:\\Personal\\CIT_API_Master.Fork\\CIT_API_Master.Fork\\Fargo.API.Solutions\\ForgoAPI.Services\\ForgoAPI.Services.csproj",
+  "projectFilePath": "C:\\Personal\\Fargo\\Fargo\\ForgoAPI.Services\\ForgoAPI.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rmish\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\rmish\\.nuget\\packages\\dapper.fastcrud\\3.3.2\\dapper.fastcrud.3.3.2.nupkg.sha512",

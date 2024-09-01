@@ -69,3 +69,15 @@ C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\Componen
 C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\Component\obj\Debug\net8.0\refint\Component.dll
 C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\Component\obj\Debug\net8.0\Component.pdb
 C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\Component\obj\Debug\net8.0\ref\Component.dll
+C:\Personal\Fargo\Fargo\Component\bin\Debug\net8.0\Component.deps.json
+C:\Personal\Fargo\Fargo\Component\bin\Debug\net8.0\Component.dll
+C:\Personal\Fargo\Fargo\Component\bin\Debug\net8.0\Component.pdb
+C:\Personal\Fargo\Fargo\Component\obj\Debug\net8.0\Component.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Fargo\Fargo\Component\obj\Debug\net8.0\Component.AssemblyInfoInputs.cache
+C:\Personal\Fargo\Fargo\Component\obj\Debug\net8.0\Component.AssemblyInfo.cs
+C:\Personal\Fargo\Fargo\Component\obj\Debug\net8.0\Component.csproj.CoreCompileInputs.cache
+C:\Personal\Fargo\Fargo\Component\obj\Debug\net8.0\Component.sourcelink.json
+C:\Personal\Fargo\Fargo\Component\obj\Debug\net8.0\Component.dll
+C:\Personal\Fargo\Fargo\Component\obj\Debug\net8.0\refint\Component.dll
+C:\Personal\Fargo\Fargo\Component\obj\Debug\net8.0\Component.pdb
+C:\Personal\Fargo\Fargo\Component\obj\Debug\net8.0\ref\Component.dll

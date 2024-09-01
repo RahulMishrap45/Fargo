@@ -70,3 +70,16 @@ C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI
 C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Entity\obj\Debug\net8.0\ForgoAPI.Entity.pdb
 C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Entity\obj\Debug\net8.0\ref\ForgoAPI.Entity.dll
 C:\Personal\CIT_API_Master.Fork\CIT_API_Master.Fork\Fargo.API.Solutions\ForgoAPI.Entity\obj\Debug\net8.0\ForgoAPI.Entity.csproj.AssemblyReference.cache
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\bin\Debug\net8.0\ForgoAPI.Entity.deps.json
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\bin\Debug\net8.0\ForgoAPI.Entity.dll
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\bin\Debug\net8.0\ForgoAPI.Entity.pdb
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\obj\Debug\net8.0\ForgoAPI.Entity.csproj.AssemblyReference.cache
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\obj\Debug\net8.0\ForgoAPI.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\obj\Debug\net8.0\ForgoAPI.Entity.AssemblyInfoInputs.cache
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\obj\Debug\net8.0\ForgoAPI.Entity.AssemblyInfo.cs
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\obj\Debug\net8.0\ForgoAPI.Entity.csproj.CoreCompileInputs.cache
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\obj\Debug\net8.0\ForgoAPI.Entity.sourcelink.json
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\obj\Debug\net8.0\ForgoAPI.Entity.dll
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\obj\Debug\net8.0\refint\ForgoAPI.Entity.dll
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\obj\Debug\net8.0\ForgoAPI.Entity.pdb
+C:\Personal\Fargo\Fargo\ForgoAPI.Entity\obj\Debug\net8.0\ref\ForgoAPI.Entity.dll

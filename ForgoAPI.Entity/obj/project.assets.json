@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Personal\\CIT_API_Master.Fork\\CIT_API_Master.Fork\\Fargo.API.Solutions\\ForgoAPI.Entity\\ForgoAPI.Entity.csproj",
+      "projectUniqueName": "C:\\Personal\\Fargo\\Fargo\\ForgoAPI.Entity\\ForgoAPI.Entity.csproj",
       "projectName": "ForgoAPI.Entity",
-      "projectPath": "C:\\Personal\\CIT_API_Master.Fork\\CIT_API_Master.Fork\\Fargo.API.Solutions\\ForgoAPI.Entity\\ForgoAPI.Entity.csproj",
+      "projectPath": "C:\\Personal\\Fargo\\Fargo\\ForgoAPI.Entity\\ForgoAPI.Entity.csproj",
       "packagesPath": "C:\\Users\\rmish\\.nuget\\packages\\",
-      "outputPath": "C:\\Personal\\CIT_API_Master.Fork\\CIT_API_Master.Fork\\Fargo.API.Solutions\\ForgoAPI.Entity\\obj\\",
+      "outputPath": "C:\\Personal\\Fargo\\Fargo\\ForgoAPI.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A4ZWgXeNiMY=",
+  "dgSpecHash": "wWQtuAZbsBs=",
   "success": true,
-  "projectFilePath": "C:\\Personal\\CIT_API_Master.Fork\\CIT_API_Master.Fork\\Fargo.API.Solutions\\WebApplication1\\Forgo.Task.csproj",
+  "projectFilePath": "C:\\Personal\\Fargo\\Fargo\\WebApplication1\\Forgo.Task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rmish\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\rmish\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
